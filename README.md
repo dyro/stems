@@ -38,7 +38,7 @@ Opens a `REPL` with the browser. Make sure to uncomment https://github.com/dyro/
 $ ./scripts/run.sh release
 ```
 Minifies JavaScript output and eliminates deadcode using google closure compiler
-
+***
 ### Usage
 
 ```
